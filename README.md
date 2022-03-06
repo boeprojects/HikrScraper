@@ -1,6 +1,6 @@
 # HikrScraper
 
-Webscraper implementation of hikr.org in an ETL process
+Webscraper implementation of [hikr.org](https://www.hikr.org/) in an ETL process
 
 ## quickstart
 
